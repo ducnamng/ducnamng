@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar {
+    background-color: #1b1b1b !important;
+    cursor: pointer;
+}
+
+.navbar a {
+    color: #e5dfd9 !important;
+}
+
+.navbar-toggler {
+    background-color: #e5dfd9;
+}
+
+.card a {
+    color: #1b1b1b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card a:hover {
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.card h5 {
+    font-weight: bold;
+}
+
+.dropdown-menu a {
+    color: black !important;
+}
+
+.slogan h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row {
+    justify-content: space-around;
+}
+
+.icons {
+    display: flex;
+    text-align: center;
+}
+
+.imgmenu {
+    width: 108px;
+    height: 108px;
+}
+
+.btn {
+    color: #e5dfd9;
+    border: 1px solid #e5dfd9;
+}
+
+.btn:hover {
+    background-color: #f3d1dc;
+    border: 1px solid white;
+}
+
+.image_center {
+    text-align: center;
+
+}
+
+.carousel-item {
+    object-fit: in;
+    width: 100vw !important;
+    height: 30vw;
+}
+
+.numerical order,
+ul {
+    margin-top: 10px;
+    justify-content: center;
+}
+
+#product {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #d5dfd9;
+}
+
+.btn-primary:hover {
+    background-color: #f3d1dc;
+    border: 1px solid white;
+}
+
+.page-link {
+    background-color: #d5dfd9;
+    /* border: 1px solid black; */
+    color: black;
+}
+
+.page-link:hover {
+    background-color: #1b1b1b;
+    /* border: 1px solid white; */
+    color: white;
+}
+
+.card-img-top {
+    width: auto;
+    height: 208px;
+    object-fit: contain;
+}
+
+.content-inner {
+    background-color: #1b1b1b;
+}
+
+.menu-foorer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-section {
+    color: white;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.footer-section ul li {
+    text-align: left;
+}
+
+.threads a h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #999999;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.footer-section a {
+    color: #e5dfd9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.footer-section a:hover {
+    color: white;
+
+}
+
+.catalogue h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0 10px 0;
+    background-color: #fdf3f4;
+}
+
+/* .box {
+    display: flex;
+    height: calc(100vw/3*2);
+    overflow: hidden;
+    margin: -20px 0;
+    z-index: -1;
+}
+
+.box_1 {
+    height: 100%;
+    width: 50%;
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/29893265/80-eng-US/pcd-dispatch8_1440_1200.jpg);
+    background-position: center;
+
+    /* Để ảnh ko bị lặp (background-repeat) */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    transition: width linear 0.2s;
+}
+
+.box_2 {
+    height: 100%;
+    width: 50%;
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/29894871/42-eng-US/cdc-dispatch7_1440_1200.jpg);
+    background-position: center;
+
+    /* Để ảnh ko bị lặp (background-repeat) */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    transition: width linear 0.2s;
+}
+
+.box_1:hover,
+.box_2:hover {
+    width: 65%;
+    cursor: alias;
+    transition: width linear 0.2s;
+} */

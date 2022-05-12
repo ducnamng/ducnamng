@@ -1,0 +1,17 @@
+.apple{
+    display: flex;
+}
+
+.letgo img{
+    width: 50vw;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    transition: width .32s ease-in-out;
+}
+.letgo img:hover{
+    width:calc(50vw - 7vw + 0.0625rem);
+    
+}
